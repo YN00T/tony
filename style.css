@@ -4,11 +4,12 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    background-image: url('imagesschoolbackground.jpg');
+    background-image: url('imagesschoolbackground.jpeg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-}
+    }
+    
 
 /* Add a slight overlay to improve text visibility */
 body::before {
